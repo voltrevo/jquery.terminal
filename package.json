@@ -1,0 +1,27 @@
+{
+  "name": "jquery.terminal",
+  "version": "0.8.8",
+  "description": "JQuery Terminal Emulator ",
+  "main": "js/jquery.terminal-src.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voltrevo/jquery.terminal.git"
+  },
+  "keywords": [
+    "jquery",
+    "terminal",
+    "emulator"
+  ],
+  "author": "Jakub Jankiewicz <jcubic@jcubic.pl>",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/voltrevo/jquery.terminal/issues"
+  },
+  "homepage": "https://github.com/voltrevo/jquery.terminal#readme"
+}
